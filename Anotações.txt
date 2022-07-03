@@ -1,0 +1,27 @@
+Introdução ao Git/GitHub:
+
+
+Git - Sistema de Versionamento de Código Distribuído. Permite gerenciar e acompanhar seu
+histórico de código-fonte.
+
+Usado para controlar o histórico de alterações de arquivos e principalmente de projetos 
+de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança 
+e desempenho.
+
+Link para download do Git: https://git-scm.com/downloads
+
+No Windows - prompt de comando:
+dir  (comando que traz a lista de diretórios contidos na pasta que está situado)
+cd/  (base do diretório)
+cd.. (retorna um nível no comando)
+cls  (limpa a tela)
+ls   (lista as pastas no diretório)
+Tecla "Tab" do teclado  (função de autocompletar no terminal)
+mkdir  (cria pasta)
+
+
+
+GitHub - plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o 
+Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma 
+contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
