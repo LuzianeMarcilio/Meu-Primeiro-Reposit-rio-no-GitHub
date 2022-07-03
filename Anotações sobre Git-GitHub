@@ -1,4 +1,4 @@
-Introdução ao Git/GitHub:
+#Introdução ao Git/GitHub:
 
 
 Git - Sistema de Versionamento de Código Distribuído. Permite gerenciar e acompanhar seu
@@ -9,6 +9,12 @@ de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de traba
 e desempenho.
 
 Link para download do Git: https://git-scm.com/downloads
+
+Primeiros Comandos com Git:
+git init (Iniciar o repositório do Git)
+git add  (Mover arquivos e começar de fato a dar início ao versionamento e conhecer os primeiros comandos)
+git commit (Criar commit)
+
 
 No Windows - prompt de comando:
 dir  (comando que traz a lista de diretórios contidos na pasta que está situado)
@@ -24,4 +30,8 @@ mkdir  (cria pasta)
 GitHub - plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o 
 Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma 
 contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+Criar a conta com seu e-mail no site do GitHub.
+Link do site: https://github.com
+
 
